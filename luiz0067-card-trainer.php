@@ -1,12 +1,13 @@
 <?php
 /**
  * Plugin Name:       Luiz0067 Card Trainer
- * Plugin URI:        https://github.com/luiz0067/luiz0067-card-trainer
+ * Plugin URI:        https://github.com/luiz0067yahoo/luiz0067-card-trainer
  * Description:       Interactive Gutenberg block for Flashcards, Dialog Cards (3D flip), and Memory Game with Bootstrap 5.
  * Version:           1.0.0
  * Requires at least: 6.0
  * Requires PHP:      7.4
- * Author:            luiz0067
+ * Author:            Luiz Fernando Brogliatto Ferreira
+ * Author URI:        https://profiles.wordpress.org/luiz0067/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       luiz0067-card-trainer

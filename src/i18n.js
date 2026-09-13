@@ -3,7 +3,7 @@
  */
 import ptBr from '../languages/pt-br.json';
 import enUs from '../languages/en-us.json';
-import itIt from '../languages/It.json';
+import itIt from '../languages/it.json';
 import esEs from '../languages/es.json';
 
 const dictionaries = {

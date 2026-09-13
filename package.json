@@ -17,7 +17,8 @@
     "bootstrap-5",
     "3d-flip"
   ],
-  "author": "luiz0067",
+  "author": "Luiz Fernando Brogliatto Ferreira",
+  "homepage": "https://github.com/luiz0067yahoo/luiz0067-card-trainer",
   "license": "GPL-2.0-or-later",
   "devDependencies": {
     "esbuild": "^0.25.0",
